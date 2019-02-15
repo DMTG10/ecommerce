@@ -1,9 +1,9 @@
 {
-    "name": "DMTG10/ecommerce",
+    "name": "dmtg10/ecommerce",
     "authors": [
         {
             "name": "Projeto Diego MTG",
-            "email": "****@.com.br"
+            "email": "dfdasf@hotmail.com.br"
         }
     ],
     "require": {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\hcodebr\\php-classes\\src"
+            "Hcode\\": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
